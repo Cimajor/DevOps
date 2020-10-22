@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project !! Edited  </h1>
+<h1> Hello, Welcome to Simple DevOps Project !! GIT !! GIT!! </h1>
 <h2> Test Illia </h2>
-<h2> Glad to see you here </h2>
+<h2> 12 23 34 45 Git changes </h2>
